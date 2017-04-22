@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#FFFFFF">
+]> 
+
+<svg version="1.1" id="Layer_2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="55" 
+     height="55" viewBox="0 0 55 55"
+     overflow="visible" enable-background="new 0 0 55 55" xml:space="preserve">
+
+<!-- rect x="1.5" y="1.5" fill="&fill_color;" stroke="&stroke_color;" stroke-width="3" width="51.949" height="51.959"/ -->
+
+<ellipse fill-rule="evenodd" clip-rule="evenodd" fill="&fill_color;" stroke="&stroke_color;" stroke-width="3" cx="26.789" cy="28.811" rx="20.323" ry="18.831"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="&fill_color;" stroke="&stroke_color;" stroke-width="3" d="M41.462,34.533
+	c0,3.529-8.839,7.983-15.853,7.983c-7.017,0-13.725-7.046-13.757-10.578c-0.013-1.395,8.507,4.515,16.097,3.99
+	C34.95,35.445,41.462,31,41.462,34.533z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="3" d="M11.545,24.79"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#000000" stroke-width="3" d="M39.652,20.837"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="&fill_color;" stroke="&stroke_color;" stroke-width="2" d="M10.838,20.417
+	c1.399-0.625,12.043-1.159,12.774,4c0.013,0.092-4.486-3.252-11.824,0.566"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="&fill_color;" stroke="&stroke_color;" stroke-width="2" d="M42.233,21.04
+	c-1.44-0.7-11.45-3.177-12.813,2.146c-0.027,0.097,9.603-2.408,11.307,2.486"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="&fill_color;" stroke="&stroke_color;" stroke-width="2" d="M22.684,28.338
+	c0.907,5.713,10.41,2.83,9.129-0.32"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="&fill_color;" stroke="&stroke_color;" stroke-width="3" d="M6.74,24.235
+	c0-0.031-0.309-0.246-0.325-0.434c-0.17-1.927-2.048-11.449-2.048-11.449l4.066,2.355l2.714-5.833l3.65,2.355l5.006-4.262
+	l2.399,2.019l5.215-2.468l2.296,2.693l13.975-2.02l-3.44,6.842l8.448-1.458l-4.277,6.281l3.026,1.346l-1.67,3.14
+	c0,0-10.952-11.552-20.755-10.767c-12.49,1-18.358,9.421-18.67,10.991"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="&fill_color;" stroke="&stroke_color;" d="M14.044,24.492"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="&fill_color;" stroke="&stroke_color;" d="M23.3,23.335"/>
+
+</svg>
+

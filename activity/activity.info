@@ -1,0 +1,7 @@
+[Activity]
+name = Icon Change
+bundle_id = org.sugarlabs.IconChange
+icon = activity
+exec = sugar-activity activity.IconChangeActivity
+show_launcher = yes
+activity_version = 1

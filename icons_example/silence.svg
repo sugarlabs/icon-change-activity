@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color "#FFFFFF">
+]>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"   version="1.0"   width="55"   height="55"   viewBox="0 0 55 55"   id="svg2491"   xml:space="preserve">
+<defs   id="defs2511">	</defs>
+<circle   cx="27.375"   cy="27.5"   r="19.903"   id="circle2494"
+   style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:3.5;marker-start:none;marker-mid:none;display:inline" />
+<path
+   d="M 45.308012,64.59176 C 45.390908,64.986274 45.434782,65.397728 45.434782,65.820656 L 45.434784,65.820656 C 45.434782,68.757656 43.318956,71.141308 40.711956,71.141308 C 38.104956,71.141304 35.98913,68.757656 35.98913,65.820656 C 35.989131,63.920762 36.874513,62.25242 38.205497,61.31108"
+   id="path3358"  style="opacity:1;fill:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+<path
+   d="M 38.205497,61.31108 C 38.932048,60.797226 39.791379,60.500004 40.711956,60.500004 C 42.943548,60.500004 44.815239,62.246592 45.308012,64.59176"
+   id="path3353"   style="opacity:1;fill:&stroke_color;;stroke-width:3.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+<path
+   d="M 26.423914,21.043477 C 28.420271,20.734327 32.82088,10.006957 38.14298,16.713061 C 36.672298,16.645918 32.531905,19.651394 31.795412,20.985733 C 40.269779,21.559636 42.070953,36.433495 28.978491,42.446906 C 28.327724,42.689674 26.954932,43.039347 26.304347,43.282608"
+   id="path2401"   style="fill:none;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:3.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+<path
+   d="M 28.025307,21.14078 C 26.02895,20.83163 21.867471,9.8651292 16.545371,16.571234 C 18.016053,16.504091 22.156446,19.509567 22.892939,20.843906 C 14.418572,21.417809 12.139137,36.052538 25.231599,42.065949 C 25.882366,42.308717 27.255158,43.13665 27.905743,43.379911"
+   id="path2413"   style="fill:none;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:3.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+<path
+   d="M 24.75,28.516304 A 1.5543479,1.9728261 0 1 1 21.641304,28.516304 A 1.5543479,1.9728261 0 1 1 24.75,28.516304 z"
+   transform="translate(0.3586957,-1.3152174)"   id="path3185"
+   style="opacity:1;fill:&stroke_color;;stroke-width:3.20000005;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+<path
+   d="M 24.75,28.516304 A 1.5543479,1.9728261 0 1 1 21.641304,28.516304 A 1.5543479,1.9728261 0 1 1 24.75,28.516304 z"
+   transform="translate(7.8913045,-1.1358692)"   id="path3187"
+   style="opacity:1;fill:&stroke_color;;stroke-width:3.20000005;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+<path
+   d="M 23.434784,36.347824 C 26.531378,34.835423 28.552437,34.097734 31.445652,32.641304"   id="path3189"
+   style="fill:none;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:2.20000005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+<path
+   d="M 23.494566,32.820653 C 26.59116,34.333054 28.612219,35.070743 31.505434,36.527173"
+   id="path3195"
+   style="fill:none;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:2.20000005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></svg>
